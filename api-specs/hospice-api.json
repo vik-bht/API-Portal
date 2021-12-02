@@ -7,8 +7,7 @@
     },
     "servers": [
         {
-            "url": "https://sampleapi-ce2b36x53q-ue.a.run.app/",
-            "description": "Dev environment"
+            "url": "https://sampleapi-ce2b36x53q-ue.a.run.app/"
         }
     ],
     "paths": {
